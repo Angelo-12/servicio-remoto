@@ -27,5 +27,4 @@ public class VentaController {
 	public List<Producto> findAllProducts(){
 		return venta.findAllProducts();
 	}
-	
 }
